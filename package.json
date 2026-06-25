@@ -1,0 +1,19 @@
+{
+  "name": "academic-slide-skill",
+  "version": "0.1.0",
+  "private": false,
+  "type": "module",
+  "description": "A coding-agent skill for restrained, argument-driven academic slide decks in social science.",
+  "scripts": {
+    "validate": "node scripts/validate-academic-slide-deck.mjs"
+  },
+  "keywords": [
+    "academic-slides",
+    "presentation",
+    "social-science",
+    "sociology",
+    "demography",
+    "skill"
+  ],
+  "license": "MIT"
+}
