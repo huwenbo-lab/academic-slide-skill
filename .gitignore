@@ -1,0 +1,13 @@
+node_modules/
+.DS_Store
+*.log
+
+# Generated decks and temporary previews
+.deck-previews/
+dist/
+outputs/
+exports/
+
+# Local assets that may contain licensed institutional marks or private data
+local-assets/
+private-assets/
